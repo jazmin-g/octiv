@@ -195,8 +195,9 @@ header.masthead {
 }
 
 header.masthead img {
-    display: block;
     margin-bottom: 30px;
+    left: 30px;
+    right: 30px;
 }
 
 header.masthead .intro-text {
